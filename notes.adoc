@@ -1,0 +1,2 @@
+= MIT, "Make your own geiger counter"
+https://ocw.mit.edu/courses/nuclear-engineering/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/index.htm
